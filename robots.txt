@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uopingieng.coderworx.co.za/sitemap.xml
